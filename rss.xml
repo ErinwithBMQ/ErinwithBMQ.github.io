@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>北沐清的博客</title>
-        <subtitle>Welcome to my Wonderland</subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <subtitle>Welcome to My Wonderland</subtitle>
+        <icon>https://erinwithbmq.github.io/images/favicon.ico</icon>
+        <link>https://erinwithbmq.github.io</link>
         <author>
           <name>北沐清</name>
         </author>
@@ -13,13 +13,13 @@
         <pubDate>Sat, 11 Jan 2025 19:38:00 +0800</pubDate>
         <lastBuildDate>Sat, 11 Jan 2025 19:38:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA16/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA16/</guid>
             <title>计组期末复习第十六讲 输入输出</title>
-            <link>http://example.com/2025/01/11/COA16/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA16/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:38:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -141,13 +141,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA15/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA15/</guid>
             <title>计组期末复习第十五讲 控制器</title>
-            <link>http://example.com/2025/01/11/COA15/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA15/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:37:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -345,13 +345,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA14/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA14/</guid>
             <title>计组期末复习第十四讲 指令周期与指令流水线</title>
-            <link>http://example.com/2025/01/11/COA14/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA14/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:36:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -537,13 +537,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA13/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA13/</guid>
             <title>计组期末复习第十三讲 指令系统</title>
-            <link>http://example.com/2025/01/11/COA13/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA13/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:34:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -673,13 +673,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA12/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA12/</guid>
             <title>计组期末复习第十二讲 总线</title>
-            <link>http://example.com/2025/01/11/COA12/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA12/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:33:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -932,13 +932,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA11/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA11/</guid>
             <title>计组期末复习第十一讲 虚拟存储器</title>
-            <link>http://example.com/2025/01/11/COA11/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA11/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:32:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -1009,13 +1009,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA10/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA10/</guid>
             <title>计组期末复习第十讲 RAID</title>
-            <link>http://example.com/2025/01/11/COA10/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA10/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:31:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -1183,13 +1183,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA9/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA9/</guid>
             <title>计组期末复习第九讲 数据校验码</title>
-            <link>http://example.com/2025/01/11/COA9/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA9/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:28:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -1364,13 +1364,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA8/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA8/</guid>
             <title>计组期末复习第八讲 外部存储器</title>
-            <link>http://example.com/2025/01/11/COA8/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA8/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:25:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -1601,13 +1601,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA7/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA7/</guid>
             <title>计组期末复习第七讲 Cache</title>
-            <link>http://example.com/2025/01/11/COA7/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA7/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:21:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -2168,13 +2168,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/COA/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/COA/</guid>
             <title>计组期末复习 1~6讲</title>
-            <link>http://example.com/2025/01/11/COA/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/COA/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:09:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
@@ -2656,13 +2656,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN12/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN12/</guid>
             <title>计网 名词解释整理</title>
-            <link>http://example.com/2025/01/11/CN12/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN12/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 19:01:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note danger&#34;&gt;
 &lt;p&gt;&lt;strong&gt;注意，也可能不全！！！！！！&lt;/strong&gt;&lt;/p&gt;
@@ -3182,13 +3182,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN11/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN11/</guid>
             <title>计网第十一章 网络安全</title>
-            <link>http://example.com/2025/01/11/CN11/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN11/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:56:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -3356,13 +3356,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN10/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN10/</guid>
             <title>计网第十章 广域网</title>
-            <link>http://example.com/2025/01/11/CN10/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN10/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:53:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -3424,13 +3424,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN9/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN9/</guid>
             <title>计网第九章 局域网交换与 VLAN</title>
-            <link>http://example.com/2025/01/11/CN9/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN9/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:50:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -3594,13 +3594,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN8/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN8/</guid>
             <title>计网第八章 路由协议</title>
-            <link>http://example.com/2025/01/11/CN8/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN8/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:45:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -4084,13 +4084,13 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN7/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN7/</guid>
             <title>计网第七章 路由与路由器</title>
-            <link>http://example.com/2025/01/11/CN7/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN7/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -4505,13 +4505,13 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN6/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN6/</guid>
             <title>计网第六章 会话、表示、应用层</title>
-            <link>http://example.com/2025/01/11/CN6/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN6/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:39:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -4732,13 +4732,13 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN5/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN5/</guid>
             <title>计网第五章 传输层</title>
-            <link>http://example.com/2025/01/11/CN5/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN5/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 18:35:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
@@ -4804,12 +4804,11 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;常见端口&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;常见端口&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
 &lt;th&gt;端口号&lt;/th&gt;
 &lt;th&gt;服务名称&lt;/th&gt;
 &lt;th&gt;描述&lt;/th&gt;
@@ -4942,8 +4941,6 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;socket-套接字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#socket-套接字&#34;&gt;#&lt;/a&gt; Socket 套接字&lt;/h2&gt;
 &lt;p&gt;**Socket（套接字）** 是网络通信的一个抽象概念，它是应用层和传输层之间的接口，用于实现网络数据通信。&lt;/p&gt;
 &lt;ol&gt;
@@ -5216,13 +5213,13 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/01/11/CN4/</guid>
+            <guid isPermalink="true">https://erinwithbmq.github.io/2025/01/11/CN4/</guid>
             <title>计网第四章 网络层</title>
-            <link>http://example.com/2025/01/11/CN4/</link>
-            <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-            <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-            <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-            <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+            <link>https://erinwithbmq.github.io/2025/01/11/CN4/</link>
+            <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+            <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+            <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+            <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
             <pubDate>Sat, 11 Jan 2025 17:59:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主阅读后提炼整理的内容。&lt;br /&gt;

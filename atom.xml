@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://erinwithbmq.github.io</id>
     <title>北沐清的博客</title>
-    <subtitle>Welcome to my Wonderland</subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <subtitle>Welcome to My Wonderland</subtitle>
+    <icon>https://erinwithbmq.github.io/images/favicon.ico</icon>
+    <link href="https://erinwithbmq.github.io" />
     <author>
       <name>北沐清</name>
     </author>
     <updated>2025-01-11T11:38:00.000Z</updated>
     <entry>
-        <id>http://example.com/2025/01/11/COA16/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA16/</id>
         <title>计组期末复习第十六讲 输入输出</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA16/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA16/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -131,16 +131,16 @@
 &lt;p&gt;使用 I/O 总线将 I/O 模块连接到 DMA 模块&lt;/p&gt;
 &lt;p&gt;多个 I/O 模块&lt;strong&gt;共享 DMA&lt;/strong&gt;，且易于扩展&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:38:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA15/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA15/</id>
         <title>计组期末复习第十五讲 控制器</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA15/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA15/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -335,16 +335,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:37:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA14/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA14/</id>
         <title>计组期末复习第十四讲 指令周期与指令流水线</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA14/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA14/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -527,16 +527,16 @@
 &lt;hr /&gt;
 &lt;p&gt;总结来说，冒险的出现是因为流水线中的不同阶段存在相互依赖和硬件资源竞争。通过优化硬件和采用各种技术（如数据前推、分支预测等），可以最大限度地减少冒险对流水线性能的影响。&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:36:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA13/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA13/</id>
         <title>计组期末复习第十三讲 指令系统</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA13/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA13/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -663,16 +663,16 @@
 &lt;p&gt;合理选择地址字段的个数&lt;/p&gt;
 &lt;p&gt;指令尽量规整&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:34:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA12/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA12/</id>
         <title>计组期末复习第十二讲 总线</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA12/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA12/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -922,16 +922,16 @@
 &lt;h2 id=&#34;多总线结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#多总线结构&#34;&gt;#&lt;/a&gt; 多总线结构&lt;/h2&gt;
 &lt;p&gt;都是增加 I/O 交互效率的。略&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:33:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA11/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA11/</id>
         <title>计组期末复习第十一讲 虚拟存储器</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA11/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA11/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -999,16 +999,16 @@
 &lt;p&gt;虚拟地址&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;段号 + 页号&lt;/strong&gt; + 页内偏移量&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:32:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA10/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA10/</id>
         <title>计组期末复习第十讲 RAID</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA10/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA10/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -1173,16 +1173,16 @@
 &lt;p&gt;2/3：不能并行处理，处理速度慢&lt;/p&gt;
 &lt;p&gt;456：数据可用性高但是写速率收到影响&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:31:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA9/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA9/</id>
         <title>计组期末复习第九讲 数据校验码</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA9/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA9/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -1354,16 +1354,16 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;img data-src=&#34;/image/COA9/3193335de6541ac6fd795ebd7d487295.png&#34; alt=&#34;3193335de6541ac6fd795ebd7d487295.png&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:28:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA8/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA8/</id>
         <title>计组期末复习第八讲 外部存储器</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA8/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA8/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -1591,16 +1591,16 @@
 &lt;h2 id=&#34;u盘和固态硬盘&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#u盘和固态硬盘&#34;&gt;#&lt;/a&gt; U 盘和固态硬盘&lt;/h2&gt;
 &lt;p&gt;采用快闪存储器&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:25:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA7/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA7/</id>
         <title>计组期末复习第七讲 Cache</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA7/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA7/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -2158,16 +2158,16 @@
 &lt;h2 id=&#34;cache-数目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cache-数目&#34;&gt;#&lt;/a&gt; Cache 数目&lt;/h2&gt;
 &lt;p&gt;略&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:21:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/COA/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/COA/</id>
         <title>计组期末复习 1~6讲</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/COA/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/COA/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;LaTeX 渲染有问题。将就着看吧。&lt;/p&gt;
 &lt;/div&gt;
@@ -2646,16 +2646,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="计算机组织结构" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="计算机组织结构" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:09:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN12/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN12/</id>
         <title>计网 名词解释整理</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN12/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN12/"/>
         <content type="html">&lt;div class=&#34;note danger&#34;&gt;
 &lt;p&gt;&lt;strong&gt;注意，也可能不全！！！！！！&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -3172,16 +3172,16 @@
 &lt;br&gt;
 &lt;p&gt;2023 级考的名词解释是 DHCP CSMA/CD VLSM OSPF UDP PDU URL SMTP&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T11:01:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN11/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN11/</id>
         <title>计网第十一章 网络安全</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN11/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN11/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -3346,16 +3346,16 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:56:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN10/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN10/</id>
         <title>计网第十章 广域网</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN10/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN10/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -3414,16 +3414,16 @@
 &lt;p&gt;SDH 的基本速率为 155.52 Mb/s&lt;/p&gt;
 &lt;p&gt;SONET 第 1 级同步传送信号 STS-1（ Synchronous Transport Signal） 的传输速率为 51.84 Mb/s，第 3 级同步传送信号 STS-3 传输速率是 STS-1 的 3 倍，为 155.52 Mb/s， …，等等，依此类推。&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:53:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN9/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN9/</id>
         <title>计网第九章 局域网交换与 VLAN</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN9/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN9/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -3584,16 +3584,16 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:50:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN8/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN8/</id>
         <title>计网第八章 路由协议</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN8/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN8/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -4074,16 +4074,16 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;p&gt;改变问候间隔与死亡间隔&lt;/p&gt;
 &lt;p&gt;若只改变问候间隔，则死亡间隔自动变为四倍。&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:45:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN7/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN7/</id>
         <title>计网第七章 路由与路由器</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN7/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN7/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -4495,16 +4495,16 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:43:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN6/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN6/</id>
         <title>计网第六章 会话、表示、应用层</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN6/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN6/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -4722,16 +4722,16 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:39:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN5/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN5/</id>
         <title>计网第五章 传输层</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN5/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN5/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主本人阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -4796,12 +4796,11 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;常见端口&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;常见端口&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
 &lt;th&gt;端口号&lt;/th&gt;
 &lt;th&gt;服务名称&lt;/th&gt;
 &lt;th&gt;描述&lt;/th&gt;
@@ -4934,8 +4933,6 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;socket-套接字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#socket-套接字&#34;&gt;#&lt;/a&gt; Socket 套接字&lt;/h2&gt;
 &lt;p&gt;**Socket（套接字）** 是网络通信的一个抽象概念，它是应用层和传输层之间的接口，用于实现网络数据通信。&lt;/p&gt;
 &lt;ol&gt;
@@ -5206,16 +5203,16 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/tbody&gt;
 &lt;/table&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T10:35:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/11/CN4/</id>
+        <id>https://erinwithbmq.github.io/2025/01/11/CN4/</id>
         <title>计网第四章 网络层</title>
-        <link rel="alternate" href="http://example.com/2025/01/11/CN4/"/>
+        <link rel="alternate" href="https://erinwithbmq.github.io/2025/01/11/CN4/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;互联网计算系列整理主要内容来自软院 2020 级学长&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lYWdsZWJlYXIyMDAyLmdpdGh1Yi5pby8=&#34;&gt; EagleBear2002 的博客&lt;/span&gt;，为博主阅读后提炼整理的内容。&lt;br /&gt;
 内容不算全面，仅推荐大家复习时参考。&lt;/p&gt;
@@ -6013,10 +6010,10 @@ OSPF 可以传播子网掩码信息，支持灵活的 IP 地址分配。&lt;/p&g
 &lt;/ul&gt;
 &lt;p&gt;&lt;img data-src=&#34;/image/CN4/image%204.png&#34; alt=&#34;image.png&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="南京大学软件工程专业课程" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
-        <category term="大二上" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
-        <category term="互联网计算" scheme="http://example.com/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
-        <category term="复习资料" scheme="http://example.com/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
+        <category term="南京大学软件工程专业课程" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/" />
+        <category term="大二上" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/" />
+        <category term="互联网计算" scheme="https://erinwithbmq.github.io/categories/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97/" />
+        <category term="复习资料" scheme="https://erinwithbmq.github.io/tags/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/" />
         <updated>2025-01-11T09:59:00.000Z</updated>
     </entry>
 </feed>
